@@ -1,0 +1,9 @@
+.cont{
+    margin-top: 50px;
+    margin-left: 80px;
+    display: flex;
+}
+
+.sp{
+    width: 10px;
+}
